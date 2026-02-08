@@ -467,3 +467,10 @@ footer {
         padding: 4rem 1.5rem;
     }
 }
+
+/* Solid Header used on specific pages */
+header.solid-header {
+    background-color: var(--bg-color);
+    mix-blend-mode: normal;
+    border-bottom: 1px solid var(--glass-border);
+}
